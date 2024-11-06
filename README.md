@@ -19,7 +19,7 @@ This is a Node.js API for managing users with basic CRUD operations (Create, Rea
 ## Project Architecture
 
 The project is structured using the MVC (Model-View-Controller) pattern for better organization:
-
+```
 user_management_api
 ├── config
 │   └── database.js
@@ -32,7 +32,7 @@ user_management_api
 ├── .env
 ├── server.js
 └── package.json
-
+```
 ## Requirements
 
 - [Node.js](https://nodejs.org/) (v12+)
